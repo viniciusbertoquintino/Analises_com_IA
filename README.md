@@ -1,6 +1,6 @@
 ## 🤿 Novamente participando de uma imersão da Alura!
 
-*Agora mergulhando no poder da Inteligência Artificial aplicada à análise de dados.
+*Agora mergulhando no poder da Inteligência Artificial aplicada à análise de dados*
 
 ## AULA 01: ANÁLISE EXPLORATÓRIA DA BASE DE DADOS E CHATGPT
 
