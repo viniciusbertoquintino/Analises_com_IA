@@ -30,7 +30,7 @@ Informações representadas por cada coluna na planilha de dados:
 * about_product: Descrição do produto 
 * product_link: Link do produto na loja da Amazon
 
-Desafios do dia: Adicionar a formatação condicional de cores à coluna de porcentagens. Faça uma análise exploratória e aplique as mesmas técnicas com o ChatGPT a uma nova base de dados do Kaggle: Top 1000 IMDb Movies Dataset: https://www.kaggle.com/datasets/inductiveanks/top-1000-imdb-movies-dataset
+Desafios da aula: Adicionar a formatação condicional de cores à coluna de porcentagens. Faça uma análise exploratória e aplique as mesmas técnicas com o ChatGPT a uma nova base de dados do Kaggle: Top 1000 IMDb Movies Dataset: https://www.kaggle.com/datasets/inductiveanks/top-1000-imdb-movies-dataset
 
 Links citados ChatGPT da OpenAI Artigo citado do “The New York Times” Link da base de dados completa da Amazon no Kaggle A função GOOGLEFINANCE do Google Sheets A função COUNTIF do Google Sheets Conteúdo extra: Bard da Google Conteúdo extra: Bing AI da Microsoft
 
@@ -43,7 +43,7 @@ Na segunda aula, vamos dar continuidade à utilização do ChatGPT para aprender
 
 https://docs.google.com/spreadsheets/d/1vfgOR26f-ZH9SKN3JaTlUnSj5IpENS79sXvus6mV46E/edit#gid=105405843
 
-Desafio do dia: Personalize o gráfico para adicionar as quantidades Analise qual seria o melhor gráfico para o seu caso usando o guia citado pelo Marcell: https://drive.google.com/file/d/12GLVEqzF5YqkdXJSUMx-_WpNHaAJo84A/view?usp=sharing Faça uma análise exploratória e aplique as mesmas técnicas vistas na aula de hoje, incluindo a criação de gráficos, a uma nova base de dados do Kaggle: base de dados de hoteis do Kaggle: https://www.kaggle.com/datasets/andrewgeorgeissac/hotels-in-munnar-kerala
+Desafio da aula: Personalize o gráfico para adicionar as quantidades Analise qual seria o melhor gráfico para o seu caso usando o guia citado pelo Marcell: https://drive.google.com/file/d/12GLVEqzF5YqkdXJSUMx-_WpNHaAJo84A/view?usp=sharing Faça uma análise exploratória e aplique as mesmas técnicas vistas na aula de hoje, incluindo a criação de gráficos, a uma nova base de dados do Kaggle: base de dados de hoteis do Kaggle: https://www.kaggle.com/datasets/andrewgeorgeissac/hotels-in-munnar-kerala
 
 ## 🤖 Aula 03 | CONECTE PLANILHAS E DOMINE CONCEITOS DE ENGENHARIA DE PROMPT
 
@@ -53,7 +53,13 @@ Para começar, faça uma cópia da nova planilha de dados da Amazon que será an
 
 Informações representadas por cada coluna na nova planilha de dados:
 
-product_id: ID do produto user_id: ID único do usuário user_name: Nome escolhido pelo usuário review_id: ID da crítica review_title: Título da crítica review_content: Conteúdo da crítica img_link: Link da imagem do produto
+* product_id: ID do produto 
+* user_id: ID único do usuário 
+* user_name: Nome escolhido pelo usuário 
+* review_id: ID da crítica 
+* review_title: Título da crítica 
+* review_content: Conteúdo da crítica 
+* img_link: Link da imagem do produto
 
 Prompts da aula: Pergunta: Tenho uma lista de valores. O meu resultado final será 30% da soma de valores. Porém, nem todos os valores serão somados, apenas aqueles acima de R$40.000,00. Para a lista abaixo, conte quantos valores existem e me diga qual é o meu resultado final?
 
@@ -61,11 +67,7 @@ R 10.000,00R 20.000,00 R 50.000,00R 60.000,00 Resposta: Nessa lista, existem 4 v
 
 Pergunta: Tenho uma lista de valores. O meu resultado final será 30% da soma de valores. Porém, nem todos os valores serão somados, apenas aqueles acima de R$40.000,00. Para a lista abaixo, conte quantos valores existem e me diga qual é o meu resultado final?
 
-(COLAR AQUI OS 10 VALORES DA NOSSA LISTA REAL DO GOOGLE SHEETS)
-
-Resposta:
-
-Desafio do dia: Gere a tradução das críticas e faça uma análise de sentimentos das mesmas usando a extensão SheetGPT em uma nova base de dados do Kaggle: base de críticas do aplicativo Threads: https://www.kaggle.com/datasets/saloni1712/threads-an-instagram-app-reviews
+Desafio da aula: Gere a tradução das críticas e faça uma análise de sentimentos das mesmas usando a extensão SheetGPT em uma nova base de dados do Kaggle: base de críticas do aplicativo Threads: https://www.kaggle.com/datasets/saloni1712/threads-an-instagram-app-reviews
 
 ## 🤖 Aula 04 | MANIPULE PLANILHAS COM PYTHON/PANDAS E O CHATGPT
 
