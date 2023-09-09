@@ -30,26 +30,28 @@ Informações representadas por cada coluna na planilha de dados:
 * about_product: Descrição do produto 
 * product_link: Link do produto na loja da Amazon
 
-Desafios da aula: Adicionar a formatação condicional de cores à coluna de porcentagens. Faça uma análise exploratória e aplique as mesmas técnicas com o ChatGPT a uma nova base de dados do Kaggle: Top 1000 IMDb Movies Dataset: https://www.kaggle.com/datasets/inductiveanks/top-1000-imdb-movies-dataset
+#### Desafios da aula: 
 
-Links citados ChatGPT da OpenAI Artigo citado do “The New York Times” Link da base de dados completa da Amazon no Kaggle A função GOOGLEFINANCE do Google Sheets A função COUNTIF do Google Sheets Conteúdo extra: Bard da Google Conteúdo extra: Bing AI da Microsoft
-
+* Adicionar a formatação condicional de cores à coluna de porcentagens. 
+* Faça uma análise exploratória e aplique as mesmas técnicas com o ChatGPT a uma nova base de dados do Kaggle: Top 1000 IMDb Movies Dataset: https://www.kaggle.com/datasets/inductiveanks/top-1000-imdb-movies-dataset
 
 ## 🤖 Aula 02 | MANIPULE PLANILHAS E CRIE GRÁFICOS COM AJUDA DA IA
 
-Introdução Chegou a hora de avançar seus** aprendizados e usar a IA como assistente na manipulação de planilhas**.
-
-Na segunda aula, vamos dar continuidade à utilização do ChatGPT para aprender a criar fórmulas no Google Sheets. Abordaremos algumas fórmulas mais avançadas, como o cálculo de média para faixas de valores e média ponderada, exploraremos a criação de gráficos e te apresentaremos a uma nova ferramenta de IA para dados. Vamos lá?
+Na segunda aula, continuamos com à utilização do ChatGPT para aprender a criar fórmulas no Google Sheets. Abordamos tambem algumas fórmulas mais avançadas, como o cálculo de média para faixas de valores e média ponderada, exploramos a criação de gráficos.
 
 https://docs.google.com/spreadsheets/d/1vfgOR26f-ZH9SKN3JaTlUnSj5IpENS79sXvus6mV46E/edit#gid=105405843
 
-Desafio da aula: Personalize o gráfico para adicionar as quantidades Analise qual seria o melhor gráfico para o seu caso usando o guia citado pelo Marcell: https://drive.google.com/file/d/12GLVEqzF5YqkdXJSUMx-_WpNHaAJo84A/view?usp=sharing Faça uma análise exploratória e aplique as mesmas técnicas vistas na aula de hoje, incluindo a criação de gráficos, a uma nova base de dados do Kaggle: base de dados de hoteis do Kaggle: https://www.kaggle.com/datasets/andrewgeorgeissac/hotels-in-munnar-kerala
+#### Desafio da aula: 
+
+* Personalize o gráfico para adicionar as quantidades Analise qual seria o melhor gráfico para o seu caso usando o guia citado pelo Marcell: https://drive.google.com/file/d/12GLVEqzF5YqkdXJSUMx-_WpNHaAJo84A/view?usp=sharing 
+
+* Faça uma análise exploratória e aplique as mesmas técnicas vistas na aula de hoje, incluindo a criação de gráficos, a uma nova base de dados de hoteis do Kaggle: https://www.kaggle.com/datasets/andrewgeorgeissac/hotels-in-munnar-kerala
 
 ## 🤖 Aula 03 | CONECTE PLANILHAS E DOMINE CONCEITOS DE ENGENHARIA DE PROMPT
 
-Introdução Na terceira aula dessa imersão, iremos um pouco mais fundo. Vamos mergulhar em uma nova base de dados, também da Amazon, que é relacionada à base antiga, e aprenderemos como conectá-las usando uma coluna comum a ambas. Apresentaremos também uma extensão que te permitirá ter o ChatGPT dentro do seu Google Sheets, e a empregaremos para realizar traduções, resumos e análises de sentimento de críticas. Por fim, focaremos uma parte da aula em te passar alguns dos principais conceitos de Engenharia de Prompt, como o uso de “few-shot” com o cadeia de pensamento, a fim de obter respostas mais precisas de IAs generativas como o ChatGPT.
+Nesta aula fomos um pouco mais fundo. Mergulhamos em uma nova base de dados, também da Amazon, que é relacionada à base antiga, e aprendemos como conectá-las usando uma coluna comum a ambas. Nos foi apresentada também uma extensão que te permiti ter o ChatGPT dentro do seu Google Sheets, e a empregarmos para realizar traduções, resumos e análises de sentimento de críticas. Por fim, focaram uma parte da aula em nos passar alguns dos principais conceitos de Engenharia de Prompt, como o uso de “few-shot” com o cadeia de pensamento, a fim de obter respostas mais precisas de IAs generativas como o ChatGPT.
 
-Para começar, faça uma cópia da nova planilha de dados da Amazon que será analisada e conectada com a antiga: https://docs.google.com/spreadsheets/d/1ECBmuHz75Fsb3aCWsLBxg_DKZiBLdilrFj7rzc-N65s/edit?usp=sharing
+Planilha de dados da Amazon que será analisada e conectada com a antiga: https://docs.google.com/spreadsheets/d/1ECBmuHz75Fsb3aCWsLBxg_DKZiBLdilrFj7rzc-N65s/edit?usp=sharing
 
 Informações representadas por cada coluna na nova planilha de dados:
 
@@ -67,7 +69,11 @@ R 10.000,00R 20.000,00 R 50.000,00R 60.000,00 Resposta: Nessa lista, existem 4 v
 
 Pergunta: Tenho uma lista de valores. O meu resultado final será 30% da soma de valores. Porém, nem todos os valores serão somados, apenas aqueles acima de R$40.000,00. Para a lista abaixo, conte quantos valores existem e me diga qual é o meu resultado final?
 
-Desafio da aula: Gere a tradução das críticas e faça uma análise de sentimentos das mesmas usando a extensão SheetGPT em uma nova base de dados do Kaggle: base de críticas do aplicativo Threads: https://www.kaggle.com/datasets/saloni1712/threads-an-instagram-app-reviews
+(COLAR AQUI OS 10 VALORES DA NOSSA LISTA REAL DO GOOGLE SHEETS)
+
+#### Desafio da aula:
+
+* Gere a tradução das críticas e faça uma análise de sentimentos das mesmas usando a extensão SheetGPT em uma nova base de dados do Kaggle: base de críticas do aplicativo Threads: https://www.kaggle.com/datasets/saloni1712/threads-an-instagram-app-reviews
 
 ## 🤖 Aula 04 | MANIPULE PLANILHAS COM PYTHON/PANDAS E O CHATGPT
 
@@ -81,16 +87,25 @@ Documentação da biblioteca Pandas: https://pandas.pydata.org/docs/user_guide/i
 
 Documentação da biblioteca Pandas Profiling: https://pypi.org/project/pandas-profiling/
 
-Desafios do dia: Usando o Google Colab com Python e Pandas, criar uma nova coluna chamada “actual_price_real”, que será o valor da coluna “actual_price” convertido para reais (dica: você pode apenas multiplicar o valor em rúpias por 0.05, como fizemos na Aula 01, ou então buscar o valor de hoje da conversão entre rúpias indianas e reais brasileiros no Google).
+#### Desafios do dia: 
 
-Realizar as análises que foram executadas nas aulas anteriores usando o Google Sheets, mas agora utilizando Python e Pandas no Google Colab.
+* Usando o Google Colab com Python e Pandas, criar uma nova coluna chamada “actual_price_real”, que será o valor da coluna “actual_price” convertido para reais (dica: você pode apenas multiplicar o valor em rúpias por 0.05, como fizemos na Aula 01, ou então buscar o valor de hoje da conversão entre rúpias indianas e reais brasileiros no Google).
 
-Conectar as duas planilhas usadas nas aulas anteriores, como fizemos com o VLOOKUP, mas usando Python e Pandas.
+* Realizar as análises que foram executadas nas aulas anteriores usando o Google Sheets, mas agora utilizando Python e Pandas no Google Colab.
 
-Colocar a base já corrigida na biblioteca Pandas Profiling citada no conteúdo extra.
+* Conectar as duas planilhas usadas nas aulas anteriores, como fizemos com o VLOOKUP, mas usando Python e Pandas.
+
+* Colocar a base já corrigida na biblioteca Pandas Profiling citada no conteúdo extra.
 
 ## 🤖 Aula 05 | CARREIRAS EM ANÁLISE DE DADOS E INTELIGÊNCIA ARTIFICIAL
 
-Introdução Se prepare para mergulhar na última aula da imersão, onde iremos explicar as diferenças entre as principais carreiras nessa área de dados, tais como Analista de Dados, Cientista de Dados, Engenheiro de Dados, Engenheiro de Machine Learning, Engenheiro de IA e Engenheiro de Prompt. Vamos lá?
+Nesta aula foram explicados as diferenças entre as principais carreiras nessa área de dados, tais como Analista de Dados, Cientista de Dados, Engenheiro de Dados, Engenheiro de Machine Learning, Engenheiro de IA e Engenheiro de Prompt.
 
-Links citados Engenheiro de Dados Líder na Globo: Matheus Encarnação Analista de Dados na ThoughtWorks: Carolina Assis Engenheiro de Machine Learning na Qantev: Filipe Lauar Analista de Governança de Dados no Itaú Unibanco: Pedro Moura Engenheiro de IA na Maritaca AI: Hugo Abonizio Conteúdo extra: TechGuide: https://techguide.sh/
+### Links citados:
+
+* Engenheiro de Dados Líder na Globo: Matheus Encarnação 
+* Analista de Dados na ThoughtWorks: Carolina Assis 
+* Engenheiro de Machine Learning na Qantev: Filipe Lauar 
+* Analista de Governança de Dados no Itaú Unibanco: Pedro Moura 
+* Engenheiro de IA na Maritaca AI: Hugo Abonizio 
+* Conteúdo extra: TechGuide: https://techguide.sh/
