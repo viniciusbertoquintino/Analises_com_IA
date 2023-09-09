@@ -1,4 +1,3 @@
-# Analises_com_IA
 O poder da Inteligência Artificial aplicada à análise de dados.
 
 AULA 01: ANÁLISE EXPLORATÓRIA DA BASE DE DADOS E CHATGPT
@@ -76,4 +75,4 @@ AULA 05: CARREIRAS EM ANÁLISE DE DADOS E INTELIGÊNCIA ARTIFICIAL
 
 Introdução Se prepare para mergulhar na última aula da imersão, onde iremos explicar as diferenças entre as principais carreiras nessa área de dados, tais como Analista de Dados, Cientista de Dados, Engenheiro de Dados, Engenheiro de Machine Learning, Engenheiro de IA e Engenheiro de Prompt. Vamos lá?
 
-Links citados Engenheiro de Dados Líder na Globo: Matheus Encarnação Analista de Dados na ThoughtWorks: Carolina Assis Engenheiro de Machine Learning na Qantev: Filipe Lauar Analista de Governança de Dados no Itaú Unibanco: Pedro Moura Engenheiro de IA na Maritaca AI: Hugo Abonizio Conteúdo extra: TechGuide
+Links citados Engenheiro de Dados Líder na Globo: Matheus Encarnação Analista de Dados na ThoughtWorks: Carolina Assis Engenheiro de Machine Learning na Qantev: Filipe Lauar Analista de Governança de Dados no Itaú Unibanco: Pedro Moura Engenheiro de IA na Maritaca AI: Hugo Abonizio Conteúdo extra: TechGuide: https://techguide.sh/
