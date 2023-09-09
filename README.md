@@ -6,7 +6,7 @@
 
 *Agora mergulhando no poder da Inteligência Artificial aplicada à análise de dados [`Imersão dados_IA`](https://www.alura.com.br/imersao-dados-ia) da [`Alura`](https://www.alura.com.br/). Aprimorando minhas habilidades em Excel e Python com ChatGPT e outras ferramentas de IA. Aumentando  minha produtividade e transformando dados em insights valiosos com agilidade.*
 
-Explorando ferramentas como o ChatGPT e o Bing.AI e Bard, que podem vir a me ajudar em atividades do dia a dia, aprendendo sobre o impacto que essas tecnologias vem trazendo ao mundo e descobrindo como aplicá-las de forma relevante.
+Explorando ferramentas como o ChatGPT, Bing.AI e Bard, que podem vir a me ajudar em atividades do dia a dia, aprendendo sobre o impacto que essas tecnologias vem trazendo ao mundo e descobrindo como aplicá-las de forma relevante.
 
 ## Aula 01 | ANÁLISE EXPLORATÓRIA DA BASE DE DADOS E CHATGPT
 
