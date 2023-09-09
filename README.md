@@ -8,13 +8,13 @@
 
 Explorando ferramentas como o ChatGPT, Bing.AI e Bard, que podem vir a me ajudar em atividades do dia a dia, aprendendo sobre o impacto que essas tecnologias vem trazendo ao mundo e descobrindo como aplicá-las de forma relevante.
 
-## Aula 01 | ANÁLISE EXPLORATÓRIA DA BASE DE DADOS E CHATGPT
+## 🤖 Aula 01 | ANÁLISE EXPLORATÓRIA DA BASE DE DADOS E CHATGPT
 
 Nesta aula foi abordado a introdução em trabalhar com dados no Excel e no Google Sheets que se tornou uma habilidade essencial em diversas áreas, incluindo marketing, vendas e muitas outras. Essas ferramentas oferecem uma plataforma versátil para coletar, analisar e visualizar dados, permitindo que profissionais tomem decisões assertivas e estratégicas.
 
 Fui apresentado ao Kaggle e como fazer uma análise exploratória com uma base de dados de compras da Amazon, usando o ChatGPT para auxiliar na hora de gerar fórmulas básicas do Google Sheets.
 
-Abaixo, o material de acompanhamneto da aula:
+Abaixo, o material de utilizado em aula:
 
 Planilha de dados da Amazon usada na aula: https://docs.google.com/spreadsheets/d/1pzFHqIAKdNOfbyecJ9hSYUXA3YSbXXF6pYEqLA_0b9k/edit#gid=105405843
 
@@ -35,7 +35,7 @@ Desafios do dia: Adicionar a formatação condicional de cores à coluna de porc
 Links citados ChatGPT da OpenAI Artigo citado do “The New York Times” Link da base de dados completa da Amazon no Kaggle A função GOOGLEFINANCE do Google Sheets A função COUNTIF do Google Sheets Conteúdo extra: Bard da Google Conteúdo extra: Bing AI da Microsoft
 
 
-## Aula 02 | MANIPULE PLANILHAS E CRIE GRÁFICOS COM AJUDA DA IA
+## 🤖 Aula 02 | MANIPULE PLANILHAS E CRIE GRÁFICOS COM AJUDA DA IA
 
 Introdução Chegou a hora de avançar seus** aprendizados e usar a IA como assistente na manipulação de planilhas**.
 
@@ -45,7 +45,7 @@ https://docs.google.com/spreadsheets/d/1vfgOR26f-ZH9SKN3JaTlUnSj5IpENS79sXvus6mV
 
 Desafio do dia: Personalize o gráfico para adicionar as quantidades Analise qual seria o melhor gráfico para o seu caso usando o guia citado pelo Marcell: https://drive.google.com/file/d/12GLVEqzF5YqkdXJSUMx-_WpNHaAJo84A/view?usp=sharing Faça uma análise exploratória e aplique as mesmas técnicas vistas na aula de hoje, incluindo a criação de gráficos, a uma nova base de dados do Kaggle: base de dados de hoteis do Kaggle: https://www.kaggle.com/datasets/andrewgeorgeissac/hotels-in-munnar-kerala
 
-## Aula 03 | CONECTE PLANILHAS E DOMINE CONCEITOS DE ENGENHARIA DE PROMPT
+## 🤖 Aula 03 | CONECTE PLANILHAS E DOMINE CONCEITOS DE ENGENHARIA DE PROMPT
 
 Introdução Na terceira aula dessa imersão, iremos um pouco mais fundo. Vamos mergulhar em uma nova base de dados, também da Amazon, que é relacionada à base antiga, e aprenderemos como conectá-las usando uma coluna comum a ambas. Apresentaremos também uma extensão que te permitirá ter o ChatGPT dentro do seu Google Sheets, e a empregaremos para realizar traduções, resumos e análises de sentimento de críticas. Por fim, focaremos uma parte da aula em te passar alguns dos principais conceitos de Engenharia de Prompt, como o uso de “few-shot” com o cadeia de pensamento, a fim de obter respostas mais precisas de IAs generativas como o ChatGPT.
 
@@ -67,7 +67,7 @@ Resposta:
 
 Desafio do dia: Gere a tradução das críticas e faça uma análise de sentimentos das mesmas usando a extensão SheetGPT em uma nova base de dados do Kaggle: base de críticas do aplicativo Threads: https://www.kaggle.com/datasets/saloni1712/threads-an-instagram-app-reviews
 
-## Aula 04 | MANIPULE PLANILHAS COM PYTHON/PANDAS E O CHATGPT
+## 🤖 Aula 04 | MANIPULE PLANILHAS COM PYTHON/PANDAS E O CHATGPT
 
 Introdução Chegou a hora de conhecer o Google Colab. Vamos mergulhar em Python e na biblioteca de manipulação de dados Pandas, demonstrando como importar tabelas e realizar análises iniciais com os comandos mais importantes. Não se preocupe se você não sabe programar! Nós utilizaremos o ChatGPT para nos auxiliar na criação de código em Python e Pandas, e também para plotar gráficos.
 
@@ -87,7 +87,7 @@ Conectar as duas planilhas usadas nas aulas anteriores, como fizemos com o VLOOK
 
 Colocar a base já corrigida na biblioteca Pandas Profiling citada no conteúdo extra.
 
-## Aula 05 | CARREIRAS EM ANÁLISE DE DADOS E INTELIGÊNCIA ARTIFICIAL
+## 🤖 Aula 05 | CARREIRAS EM ANÁLISE DE DADOS E INTELIGÊNCIA ARTIFICIAL
 
 Introdução Se prepare para mergulhar na última aula da imersão, onde iremos explicar as diferenças entre as principais carreiras nessa área de dados, tais como Analista de Dados, Cientista de Dados, Engenheiro de Dados, Engenheiro de Machine Learning, Engenheiro de IA e Engenheiro de Prompt. Vamos lá?
 
