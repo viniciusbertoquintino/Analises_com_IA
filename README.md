@@ -22,13 +22,13 @@ Informações representadas por cada coluna na planilha de dados:
 
 * product_id: ID do produto
 * product_name: Nome do produto 
-category: Categoria do produto 
-actual_price: Valor do produto com desconto 
-product_price: Valor do produto com valor cheio 
-rating: Valor de 0 a 5 avaliando o produto 
-rating_count: Quantidade de pessoas que avaliaram o produto 
-about_product: Descrição do produto 
-product_link: Link do produto na loja da Amazon
+* category: Categoria do produto 
+* actual_price: Valor do produto com desconto 
+* product_price: Valor do produto com valor cheio 
+* rating: Valor de 0 a 5 avaliando o produto 
+* rating_count: Quantidade de pessoas que avaliaram o produto 
+* about_product: Descrição do produto 
+* product_link: Link do produto na loja da Amazon
 
 Desafios do dia: Adicionar a formatação condicional de cores à coluna de porcentagens. Faça uma análise exploratória e aplique as mesmas técnicas com o ChatGPT a uma nova base de dados do Kaggle: Top 1000 IMDb Movies Dataset: https://www.kaggle.com/datasets/inductiveanks/top-1000-imdb-movies-dataset
 
