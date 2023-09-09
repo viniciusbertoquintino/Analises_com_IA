@@ -20,8 +20,8 @@ Planilha de dados da Amazon usada na aula: https://docs.google.com/spreadsheets/
 
 Informações representadas por cada coluna na planilha de dados:
 
-product_id: ID do produto
-product_name: Nome do produto 
+* product_id: ID do produto
+* product_name: Nome do produto 
 category: Categoria do produto 
 actual_price: Valor do produto com desconto 
 product_price: Valor do produto com valor cheio 
