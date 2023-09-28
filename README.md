@@ -63,13 +63,12 @@ Informações representadas por cada coluna na nova planilha de dados:
 * review_content: Conteúdo da crítica 
 * img_link: Link da imagem do produto
 
-Prompts da aula: Pergunta: Tenho uma lista de valores. O meu resultado final será 30% da soma de valores. Porém, nem todos os valores serão somados, apenas aqueles acima de R$40.000,00. Para a lista abaixo, conte quantos valores existem e me diga qual é o meu resultado final?
+Prompts da aula: Tenho uma lista de valores. O meu resultado final será 30% da soma de valores. Porém, nem todos os valores serão somados, apenas aqueles acima de R$40.000,00. Para a lista abaixo, conte quantos valores existem e me diga qual é o meu resultado final?
 
 R 10.000,00R 20.000,00 R 50.000,00R 60.000,00 Resposta: Nessa lista, existem 4 valores. Há 2 valores acima de R 40.000,00,quesãoR 50.000,00 e R 60.000,00.AsomadessesvaloreséR 110.000,00. O resultado final é 30% da soma desses valores, portanto, 30% de R 110.000,00,queresultaemR 33.000,00.
 
 Pergunta: Tenho uma lista de valores. O meu resultado final será 30% da soma de valores. Porém, nem todos os valores serão somados, apenas aqueles acima de R$40.000,00. Para a lista abaixo, conte quantos valores existem e me diga qual é o meu resultado final?
 
-(COLAR AQUI OS 10 VALORES DA NOSSA LISTA REAL DO GOOGLE SHEETS)
 
 #### Desafio da aula:
 
@@ -77,7 +76,7 @@ Pergunta: Tenho uma lista de valores. O meu resultado final será 30% da soma de
 
 ## 🤖 Aula 04 | MANIPULE PLANILHAS COM PYTHON/PANDAS E O CHATGPT
 
-Introdução Chegou a hora de conhecer o Google Colab. Vamos mergulhar em Python e na biblioteca de manipulação de dados Pandas, demonstrando como importar tabelas e realizar análises iniciais com os comandos mais importantes. Não se preocupe se você não sabe programar! Nós utilizaremos o ChatGPT para nos auxiliar na criação de código em Python e Pandas, e também para plotar gráficos.
+Neste encontro conhecemos um pouco mais sobre o Google Colab e mergulhamos em Python e na biblioteca de manipulação de dados Pandas, aprendendo como importar tabelas e realizar análises iniciais com os comandos mais importantes. Para este processo utilizamos o ChatGPT para nos auxiliar na criação de código em Python e Pandas, e também para plotar gráficos.
 
 https://docs.google.com/spreadsheets/d/1ECBmuHz75Fsb3aCWsLBxg_DKZiBLdilrFj7rzc-N65s/edit?usp=sharing
 
