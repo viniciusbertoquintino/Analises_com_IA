@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Imersão dados_IA_2</h1>
+  <h1 align="center">Analise de dados com IA</h1>
 </p>
 
 ## 🤿 Novamente participando de uma imersão da Alura!
